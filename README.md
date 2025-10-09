@@ -32,3 +32,45 @@ JavaScript functionality will be added soon to make the website more interactive
 
 ## 📸 Preview
 To view the project locally:
+
+### Laptop
+![Laptop screen](./img/Laptop(1).png)
+![Laptop screen](./img/Laptop(2).png)
+![Laptop screen](./img/Laptop(3).png)
+![Laptop screen](./img/Laptop(4).png)
+![Laptop screen](./img/Laptop(5).png)
+![Laptop screen](./img/Laptop(6).png)
+
+
+### Tablet
+![Tablet screen](./img/Tablet(1).png)
+![Tablet screen](./img/Tablet(2).png)
+![Tablet screen](./img/Tablet(3).png)
+![Tablet screen](./img/Tablet(4).png)
+![Tablet screen](./img/Tablet(5).png)
+![Tablet screen](./img/Tablet(6).png)
+![Tablet screen](./img/Tablet(7).png)
+
+### Mobile
+![Mobile screen](./img/Tablet(1).png)
+![Mobile screen](./img/Tablet(2).png)
+![Mobile screen](./img/Tablet(3).png)
+![Mobile screen](./img/Tablet(4).png)
+![Mobile screen](./img/Tablet(5).png)
+![Mobile screen](./img/Tablet(6).png)
+![Mobile screen](./img/Tablet(7).png)
+![Mobile screen](./img/Tablet(8).png)
+![Mobile screen](./img/Tablet(9).png)
+![Mobile screen](./img/Tablet(10).png)
+![Mobile screen](./img/Tablet(11).png)
+![Mobile screen](./img/Tablet(12).png)
+![Mobile screen](./img/Tablet(13).png)
+![Mobile screen](./img/Tablet(14).png)
+
+
+## 📸 Movie
+
+Check out a quick demo of the Food Delivery project in action!
+
+## 🎥 Demo Video
+[🎬 Watch the demo](./videos/Recording%202025-10-09%20115237.mp4)
