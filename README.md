@@ -8,48 +8,51 @@ Welcome to **Food Delivery Website**, a modern, responsive, and interactive web 
 
 ## 🎬 Live Demo & Project Video
 
-[![Watch Demo Video](Screenshot/Laptop(1).png)](videos/Screen_Recording_2025-10-10_132153.mp4)
+[![Watch Demo Video](<./img/Laptop(1).png>)](./videos/Recording%202025-10-09%20115237.mp4)
 
 > Click the image above to watch the **full interactive project demo**.  
-> 🚀 Download the video [here](./videos/Screen_Recording_2025-10-10_132153.mp4).
+> 🚀 Download the video [here](./videos/Recording%202025-10-09%20115237.mp4).
 
 ---
 
 ## 📸 Screenshots
 
 ### 💻 Desktop
-| ![Laptop 1](Screenshot/Laptop(1).png) | ![Laptop 2](Screenshot/Laptop(2).png) | ![Laptop 3](Screenshot/Laptop(3).png) |
-|--------------------------------------|--------------------------------------|--------------------------------------|
+
+| ![Laptop 1](<./img/Laptop(1).png>) | ![Laptop 2](<./img/Laptop(2).png>) | ![Laptop 3](<./img/Laptop(3).png>) |
+| ---------------------------------- | ---------------------------------- | ---------------------------------- |
 
 ### 📱 Mobile
-| ![Mobile 1](Screenshot/Mobile(1).png) | ![Mobile 2](Screenshot/Mobile(2).png) | ![Mobile 3](Screenshot/Mobile(3).png) |
-|---------------------------------------|---------------------------------------|---------------------------------------|
+
+| ![Mobile 1](<./img/Mobile(1).png>) | ![Mobile 2](<./img/Mobile(2).png>) | ![Mobile 3](<./img/Mobile(3).png>) |
+| ---------------------------------- | ---------------------------------- | ---------------------------------- |
 
 ### 📱 Tablet
-| ![Tablet 1](Screenshot/Tablet(1).png) | ![Tablet 2](Screenshot/Tablet(2).png) | ![Tablet 3](Screenshot/Tablet(3).png) |
-|--------------------------------------|--------------------------------------|--------------------------------------|
+
+| ![Tablet 1](<./img/Tablet(1).png>) | ![Tablet 2](<./img/Mobile(2).png>) | ![Tablet 3](<./img/Mobile(3).png>) |
+| ---------------------------------- | ---------------------------------- | ---------------------------------- |
 
 ---
 
 ## ✨ Key Features
 
-- 🌟 **Fully responsive design** for all devices.  
-- 🍔 **Interactive menu & navigation** for smooth user experience.  
-- 🛒 **Product listing & ordering system** (frontend demo).  
-- 💬 **Clients & testimonials carousel** for social proof.  
-- 📝 **Newsletter subscription form** with validation.  
-- 🔤 **Custom fonts**: TTNorms & Times New Roman Italic.  
-- 🎨 Modern, clean, and elegant design.  
-- 🚀 SEO-friendly HTML structure.  
+- 🌟 **Fully responsive design** for all devices.
+- 🍔 **Interactive menu & navigation** for smooth user experience.
+- 🛒 **Product listing & ordering system** (frontend demo).
+- 💬 **Clients & testimonials carousel** for social proof.
+- 📝 **Newsletter subscription form** with validation.
+- 🔤 **Custom fonts**: TTNorms & Times New Roman Italic.
+- 🎨 Modern, clean, and elegant design.
+- 🚀 SEO-friendly HTML structure.
 - 🛠 Easy to customize for your own projects.
 
 ---
 
 ## 🛠 Technologies
 
-- 🌐 **HTML5** – Semantic markup  
-- 🎨 **CSS3** – Flexbox, Grid, media queries  
-- ⚡ **JavaScript** – Dynamic interactivity  
-- 🗂 **Git & GitHub** – Version control  
-- 🎥 **Git LFS** – For large video files  
+- 🌐 **HTML5** – Semantic markup
+- 🎨 **CSS3** – Flexbox, Grid, media queries
+- ⚡ **JavaScript** – Dynamic interactivity
+- 🗂 **Git & GitHub** – Version control
+- 🎥 **Git LFS** – For large video files
 - 🚀 **Optimized assets** – Fast loading & smooth performance
