@@ -1,76 +1,55 @@
 # 🍔 Food Delivery Website
 
-A modern, fully responsive **Food Delivery Website** built using **HTML** and **CSS**.  
-The project provides a clean and attractive interface for browsing menus and placing food orders.  
-JavaScript functionality will be added soon to make the website more interactive and dynamic.
+Welcome to **Food Delivery Website**, a modern, responsive, and interactive web project designed for online food ordering. Built with **HTML5, CSS3, and JavaScript**, it works seamlessly on **desktop, tablet, and mobile devices**.
+
+> ⚡ Perfect for restaurants, food bloggers, or anyone who wants to showcase a food delivery platform.
 
 ---
 
-## ✨ Features
-- Fully responsive design (works on mobile, tablet, and desktop)
-- Simple and elegant user interface
-- Sections for Home, Menu, About, and Contact
-- Built with pure HTML and CSS
-- Future updates with JavaScript features
+## 🎬 Live Demo & Project Video
+
+[![Watch Demo Video](Screenshot/Laptop(1).png)](videos/Screen_Recording_2025-10-10_132153.mp4)
+
+> Click the image above to watch the **full interactive project demo**.  
+> 🚀 Download the video [here](./videos/Screen_Recording_2025-10-10_132153.mp4).
 
 ---
 
-## 🛠️ Technologies Used
-- **HTML5**  
-- **CSS3** (Flexbox & Media Queries for responsiveness)  
-- **JavaScript** (coming soon)
+## 📸 Screenshots
+
+### 💻 Desktop
+| ![Laptop 1](Screenshot/Laptop(1).png) | ![Laptop 2](Screenshot/Laptop(2).png) | ![Laptop 3](Screenshot/Laptop(3).png) |
+|--------------------------------------|--------------------------------------|--------------------------------------|
+
+### 📱 Mobile
+| ![Mobile 1](Screenshot/Mobile(1).png) | ![Mobile 2](Screenshot/Mobile(2).png) | ![Mobile 3](Screenshot/Mobile(3).png) |
+|---------------------------------------|---------------------------------------|---------------------------------------|
+
+### 📱 Tablet
+| ![Tablet 1](Screenshot/Tablet(1).png) | ![Tablet 2](Screenshot/Tablet(2).png) | ![Tablet 3](Screenshot/Tablet(3).png) |
+|--------------------------------------|--------------------------------------|--------------------------------------|
 
 ---
 
-## 🚀 Upcoming Enhancements
-- Interactive menu with JavaScript  
-- Order and cart system  
-- Smooth animations and effects  
-- Contact form functionality  
+## ✨ Key Features
+
+- 🌟 **Fully responsive design** for all devices.  
+- 🍔 **Interactive menu & navigation** for smooth user experience.  
+- 🛒 **Product listing & ordering system** (frontend demo).  
+- 💬 **Clients & testimonials carousel** for social proof.  
+- 📝 **Newsletter subscription form** with validation.  
+- 🔤 **Custom fonts**: TTNorms & Times New Roman Italic.  
+- 🎨 Modern, clean, and elegant design.  
+- 🚀 SEO-friendly HTML structure.  
+- 🛠 Easy to customize for your own projects.
 
 ---
 
-## 📸 Preview
-To view the project locally:
+## 🛠 Technologies
 
-### Laptop
-![Laptop screen](./img/Laptop(1).png)
-![Laptop screen](./img/Laptop(2).png)
-![Laptop screen](./img/Laptop(3).png)
-![Laptop screen](./img/Laptop(4).png)
-![Laptop screen](./img/Laptop(5).png)
-![Laptop screen](./img/Laptop(6).png)
-
-
-### Tablet
-![Tablet screen](./img/Tablet(1).png)
-![Tablet screen](./img/Tablet(2).png)
-![Tablet screen](./img/Tablet(3).png)
-![Tablet screen](./img/Tablet(4).png)
-![Tablet screen](./img/Tablet(5).png)
-![Tablet screen](./img/Tablet(6).png)
-![Tablet screen](./img/Tablet(7).png)
-
-### Mobile
-![Mobile screen](./img/Mobile(1).png)
-![Mobile screen](./img/Mobile(2).png)
-![Mobile screen](./img/Mobile(3).png)
-![Mobile screen](./img/Mobile(4).png)
-![Mobile screen](./img/Mobile(5).png)
-![Mobile screen](./img/Mobile(6).png)
-![Mobile screen](./img/Mobile(7).png)
-![Mobile screen](./img/Mobile(8).png)
-![Mobile screen](./img/Mobile(9).png)
-![Mobile screen](./img/Mobile(10).png)
-![Mobile screen](./img/Mobile(11).png)
-![Mobile screen](./img/Mobile(12).png)
-![Mobile screen](/img/Mobile(13).png)
-![Mobile screen](./img/Mobile(14).png)
-
-
-## 📸 Movie
-
-Check out a quick demo of the Food Delivery project in action!
-
-## 🎥 Demo Video
-[🎬 Watch the demo](./videos/Recording%202025-10-09%20115237.mp4)
+- 🌐 **HTML5** – Semantic markup  
+- 🎨 **CSS3** – Flexbox, Grid, media queries  
+- ⚡ **JavaScript** – Dynamic interactivity  
+- 🗂 **Git & GitHub** – Version control  
+- 🎥 **Git LFS** – For large video files  
+- 🚀 **Optimized assets** – Fast loading & smooth performance
