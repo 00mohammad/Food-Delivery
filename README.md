@@ -1,65 +1,93 @@
 # 🍔 Food Delivery Website
 
-Welcome to **Food Delivery Website**, a modern, responsive, and interactive web project designed for online food ordering. Built with **HTML5, CSS3, and JavaScript**, it works seamlessly on **desktop, tablet, and mobile devices**.
+![Food Delivery Banner](./Screenshot/Laptop(1).png)
 
-> ⚡ Perfect for restaurants, food bloggers, or anyone who wants to showcase a food delivery platform.
+Welcome to **Food Delivery Website**, a **modern, interactive, and fully responsive** web project for online food ordering.  
+Built with **HTML5, CSS3, JavaScript**, and **optimized assets**, it works flawlessly on **Desktop, Tablet, and Mobile**.
 
----
-
-## 🎬 Live Demo & Project Video
-
-[![Watch Demo Video](<./img/Laptop(1).png>)](./videos/Recording%202025-10-09%20115237.mp4)
-
-> Click the image above to watch the **full interactive project demo**.  
-> 🚀 Download the video [here](./videos/Recording%202025-10-09%20115237.mp4).
+> ⚡ Perfect for restaurants, food bloggers, or anyone who wants a **professional food delivery platform**.
 
 ---
 
-## 📸 Screenshots
+## 🎬 Live Demo
+
+[![Watch Demo](./Screenshot/Laptop(1).png)](./videos/Recording%202025-10-09%20115237.mp4)  
+> Click the image above to watch the **interactive demo video**.  
+> 🚀 Download video [here](./videos/Recording%202025-10-09%20115237.mp4).
+
+---
+
+## 📸 Stunning Screenshots
 
 ### 💻 Desktop
-
-| ![Laptop 1](<./Screenshot/Laptop(1).png>) | ![Laptop 2](<./Screenshot/Laptop(2).png>) | ![Laptop 3](<./Screenshot/Laptop(3).png>) |
-| ![Laptop 4](<./Screenshot/Laptop(4).png>) | ![Laptop 5](<./Screenshot/Laptop(5).png>) | ![Laptop 6](<./Screenshot/Laptop(6).png>) |
-| ---------------------------------- | ---------------------------------- | ---------------------------------- |
-
-### 📱 Tablet
-
-| ![Tablet 1](<./img/Tablet(1).png>) | ![Tablet 2](<./img/Tablet(2).png>) | ![Tablet 3](<./img/Tablet(3).png>) |
-| ![Tablet 4](<./img/Tablet(4).png>) | ![Tablet 5](</img/Tablet(5).png>) | ![Tablet 6](<./img/Tablet(6).png>) |
-| ![Tablet 7](<./img/Tablet(7).png>) |
-| ---------------------------------- | ---------------------------------- | ---------------------------------- |
+<div style="display:flex; flex-wrap: wrap; gap:10px;">
+<img src="./Screenshot/Laptop(1).png" width="250"/>
+<img src="./Screenshot/Laptop(2).png" width="250"/>
+<img src="./Screenshot/Laptop(3).png" width="250"/>
+<img src="./Screenshot/Laptop(4).png" width="250"/>
+<img src="./Screenshot/Laptop(5).png" width="250"/>
+<img src="./Screenshot/Laptop(6).png" width="250"/>
+</div>
 
 ### 📱 Mobile
+<div style="display:flex; flex-wrap: wrap; gap:5px;">
+<img src="./Screenshot/Mobile(1).png" width="140"/>
+<img src="./Screenshot/Mobile(2).png" width="140"/>
+<img src="./Screenshot/Mobile(3).png" width="140"/>
+<img src="./Screenshot/Mobile(4).png" width="140"/>
+<img src="./Screenshot/Mobile(5).png" width="140"/>
+<img src="./Screenshot/Mobile(6).png" width="140"/>
+<img src="./Screenshot/Mobile(7).png" width="140"/>
+<img src="./Screenshot/Mobile(8).png" width="140"/>
+<img src="./Screenshot/Mobile(9).png" width="140"/>
+<img src="./Screenshot/Mobile(10).png" width="140"/>
+<img src="./Screenshot/Mobile(11).png" width="140"/>
+<img src="./Screenshot/Mobile(12).png" width="140"/>
+<img src="./Screenshot/Mobile(13).png" width="140"/>
+<img src="./Screenshot/Mobile(14).png" width="140"/>
+</div>
 
-| ![Mobile 1](<./Screenshot/Mobile(1).png>) | ![Mobile 2](<./Screenshot/Mobile(2).png>) | ![Mobile 3](<./Screenshot/Mobile(3).png>) |
-| ![Mobile 4](<./Screenshot/Mobile(4).png>) | ![Mobile 5](./Screenshot/Mobile(5).png) | ![Mobile 6](<./Screenshot/Mobile(6).png>) |
-| ![Mobile 7](<./Screenshot/Mobile(7).png>) | ![Mobile 8](<./Screenshot/Mobile(8).png>) | ![Mobile 9](<./Screenshot/Mobile(9).png>) |
-| ![Mobile 10](<./Screenshot/Mobile(10).png>) | ![Mobile 11](<./Screenshot/Mobile(11).png>) | ![Mobile 12](./Screenshot/Mobile(12).png) |
-| ![Mobile 13](<./Screenshot/Mobile(13).png>) | ![Mobile 14](<./Screenshot/Mobile(14).png>) |
-| ---------------------------------- | ---------------------------------- | ---------------------------------- |
+### 📱 Tablet
+<div style="display:flex; flex-wrap: wrap; gap:10px;">
+<img src="./Screenshot/Tablet(1).png" width="200"/>
+<img src="./Screenshot/Tablet(2).png" width="200"/>
+<img src="./Screenshot/Tablet(3).png" width="200"/>
+<img src="./Screenshot/Tablet(4).png" width="200"/>
+<img src="./Screenshot/Tablet(5).png" width="200"/>
+<img src="./Screenshot/Tablet(6).png" width="200"/>
+<img src="./Screenshot/Tablet(7).png" width="200"/>
+</div>
 
 ---
 
 ## ✨ Key Features
 
-- 🌟 **Fully responsive design** for all devices.
-- 🍔 **Interactive menu & navigation** for smooth user experience.
-- 🛒 **Product listing & ordering system** (frontend demo).
-- 💬 **Clients & testimonials carousel** for social proof.
-- 📝 **Newsletter subscription form** with validation.
-- 🔤 **Custom fonts**: TTNorms & Times New Roman Italic.
-- 🎨 Modern, clean, and elegant design.
-- 🚀 SEO-friendly HTML structure.
-- 🛠 Easy to customize for your own projects.
+- 🌟 **Fully responsive**: Desktop, Tablet, Mobile  
+- 🍔 **Interactive navigation & menu**  
+- 🛒 **Product listing & ordering demo**  
+- 💬 **Clients & testimonials carousel**  
+- 📝 **Newsletter subscription with validation**  
+- 🔤 **Custom fonts**: TTNorms & Times New Roman Italic  
+- 🎨 Modern, clean, elegant UI  
+- 🚀 SEO-friendly HTML structure  
+- 🛠 Easy to customize & extend
 
 ---
 
 ## 🛠 Technologies
 
-- 🌐 **HTML5** – Semantic markup
-- 🎨 **CSS3** – Flexbox, Grid, media queries
-- ⚡ **JavaScript** – Dynamic interactivity
-- 🗂 **Git & GitHub** – Version control
-- 🎥 **Git LFS** – For large video files
-- 🚀 **Optimized assets** – Fast loading & smooth performance
+| Technology | Purpose |
+|------------|---------|
+| 🌐 HTML5 | Semantic markup |
+| 🎨 CSS3 | Flexbox, Grid, Media Queries |
+| ⚡ JavaScript | Dynamic interactivity |
+| 🗂 Git & GitHub | Version control |
+| 🎥 Git LFS | Manage large videos & images |
+| 🚀 Optimized assets | Fast loading & smooth performance |
+
+---
+
+## 📂 Repository Link
+
+Check the project on GitHub:  
+[🍔 Food Delivery Repository](https://github.com/00mohammad/Food-Delivery)
