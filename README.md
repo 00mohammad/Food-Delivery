@@ -97,4 +97,4 @@ Check the project on GitHub:
 Want to see the project in action?  
 Scan the QR code below to preview the **Food Delivery Website** on your phone 👇
 
-![QR Code](download.png)
+![QR Code](./imgs/download.png)
