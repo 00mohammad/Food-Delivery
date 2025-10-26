@@ -91,3 +91,10 @@ Built with **HTML5, CSS3, JavaScript**, and **optimized assets**, it works flawl
 
 Check the project on GitHub:  
 [🍔 Food Delivery Repository](https://github.com/00mohammad/Food-Delivery)
+
+## 📱 Scan to View Live Demo
+
+Want to see the project in action?  
+Scan the QR code below to preview the **Food Delivery Website** on your phone 👇
+
+![QR Code](download.png)
